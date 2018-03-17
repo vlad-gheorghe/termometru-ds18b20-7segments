@@ -1,6 +1,7 @@
 /* Arduino 7 Segment Display Thermometer with DS18B20 temp Sensor
    Dev: Vasilakis Michalis // Date: 25/7/2015 // www.ardumotive.com */
-//http://www.instructables.com/id/System-Monitor-With-Arduino-and-7-Segment-Display/
+
+//http://www.instructables.com/id/Seven-Segment-Display-Thermometer-Arduino-Based/
 
 //Libraries
 #include "SevenSeg.h"

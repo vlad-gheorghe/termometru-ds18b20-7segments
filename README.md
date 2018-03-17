@@ -1,0 +1,1 @@
+# termometru-ds18b20-7segments
